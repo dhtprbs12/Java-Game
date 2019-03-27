@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Reversi"},{"p":"<Unnamed>","l":"ReversiController"},{"p":"<Unnamed>","l":"ReversiJUnitTest"},{"p":"<Unnamed>","l":"ReversiModel"},{"p":"<Unnamed>","l":"ReversiView"}]
